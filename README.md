@@ -1,2 +1,2 @@
-# react-native-fetch-api-example
- An example to fetch data from api
+# Fetch API example
+### An example to fetch data from api using custom hooks and axios
